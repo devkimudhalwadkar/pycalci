@@ -1,4 +1,4 @@
-
+"""Simple Hello, World example with PyQt6."""
 
 import sys
 
